@@ -1,8 +1,28 @@
-# Week 1 — Setup and Basics
+Week 1 — Setup and Basics
 
-## Day 1
-✅ Установлен Python и VS  
-✅ Создан GitHub-репозиторий  
-✅ Настроена структура проекта  
+Day 1
+
+✅ Установлен Python и VS Code
+✅ Создан GitHub-репозиторий
+✅ Настроена структура проекта
 
 Следующее: изучение Python (типы данных, переменные).
+
+Day 2
+
+✅ Изучены темы в Python:
+    Типы данных (str, int, float)
+    Переменные
+    Ввод/вывод (input/print)
+    Простые арифметические операции
+    Модуль math
+    Функция round()
+✅ Загружены две программы, демонстрирующие применение изученных тем:
+    Circle Area and Perimeter Calculator
+    Currency Converter with Commission
+✅ Установлены инструменты:
+    Wireshark
+    Nmap
+✅ Создана виртуальная машина с Kali Linux
+
+Следующее: изучение Python (условия, циклы, списки и базовые операции со списками).
